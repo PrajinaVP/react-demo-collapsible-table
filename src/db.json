@@ -1,0 +1,88 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Weetabix",
+      "category": "Cereal",
+      "unitPrice": 501,
+      "details": [{
+        "instock": "yes",
+        "qty": 1,
+        "storeId": "1234",
+        "sku": "111"
+      }]
+    },
+    {
+      "id": 2,
+      "name": "Colgate Toothpaste",
+      "category": "Toiletries",
+      "unitPrice": 119,
+      "details": [{
+        "instock": "yes",
+        "qty": 20,
+        "storeId": "1234",
+        "sku": "222"
+      }]
+    },
+    {
+      "id": 3,
+      "name": "Imperial Leather Soap",
+      "category": "Toiletries",
+      "unitPrice": 235,
+      "details": [{
+        "instock": "yes",
+        "qty": 15,
+        "storeId": "1234",
+        "sku": "333"
+      }]
+    },
+    {
+      "id": 4,
+      "name": "Sunlight Detergent",
+      "category": "Toiletries",
+      "unitPrice": 401,
+      "details": [{
+        "instock": "yes",
+        "qty": 13,
+        "storeId": "1234",
+        "sku": "444"
+      }]
+    },
+    {
+      "id": 5,
+      "name": "Sunlight Detergent",
+      "category": "Toiletries",
+      "unitPrice": 401,
+      "details": [{
+        "instock": "yes",
+        "qty": 13,
+        "storeId": "1234",
+        "sku": "555"
+      }]
+    },
+    {
+      "id": 6,
+      "name": "Sunlight Detergent",
+      "category": "Toiletries",
+      "unitPrice": 401,
+      "details": [{
+        "instock": "yes",
+        "qty": 13,
+        "storeId": "1234",
+        "sku": "666"
+      }]
+    },
+    {
+      "id": 7,
+      "name": "Sunlight Detergent",
+      "category": "Toiletries",
+      "unitPrice": 401,
+      "details": [{
+        "instock": "yes",
+        "qty": 13,
+        "storeId": "1234",
+        "sku": "777"
+      }]
+    }
+  ]
+}
